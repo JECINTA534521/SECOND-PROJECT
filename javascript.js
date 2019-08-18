@@ -1,3 +1,5 @@
+function showName(){
+
 var maleNames={
     "Kwasi",
     "Kwadwo",
@@ -5,7 +7,7 @@ var maleNames={
     "Kwaku",
     "Yaw",
     "Kofi",
-    "Kwame",
+    "Kwame"
 
 };
 var femaleNames={
@@ -15,7 +17,7 @@ var femaleNames={
     "Akua",
     "Yaa",
     "Afua",
-    "Ama",
+    "Ama"
 };
 var days=document.getElementById("days").value;
 var moths=document.getElementById("months").value;
@@ -27,5 +29,7 @@ if (document.getElementById("male").checked){
 else{
     var gender="female";
 };
+
+}
 
 
