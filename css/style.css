@@ -11,8 +11,7 @@ p{
 .jumbotron{
   background-color: plum
 }
-form{
-    width: 400px;
-    padding-left: 200px;
+.centre{
+  justify-content: center;
+  margin-left: 250px;
 }
-
