@@ -5,6 +5,8 @@
 Created by Jecinta wanjiru Gathitu, on 19th August 2019.
 ## SETUP INSTRUCTIONS
 To use the application you don't have to follow any instructions to use it.
+## KNOWN BUGS.
+The formula may not work as expected but will be rectified.
 
 ## TECHNOLOGY USED.
 * Html
