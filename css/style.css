@@ -1,8 +1,14 @@
 h1{
-    text-align: center;
-    background-color: blue
+    background-color: chocolate;
+    text-align:center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height:80px;
 }
+
 div{
  text-align: center;
 background-color: powderblue;
+}
+body{
+margin
 }
