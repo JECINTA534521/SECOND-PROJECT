@@ -1,50 +1,37 @@
 <!DOCTYPE html>
-<html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>Second project</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+     <link rel="stylesheet" type="text/css"
+        href="css/bootstrap.css">
 </head>
+
 <body>
-    <form>
-    <input type="text" id="days" value="day">
-    <input type="text" id="months" value="month">
-    <input type="text" id="years" value="year"><br>
-    <input type="radio" name="gender" id="male" value="male" checked >male<br>
-    <input type="radio" name="gender" id="female" value="female">female<br>
-    <button onclick="showName()">submit</button>
+    <div class="container">
+        <h1>Ghananian names</h1>
+
+        <div id="form">
+
+            <label>day</label><br>
+            <input type="number" id="day" name="day" placeholder="01" required><br><br>
+            <label>month</label><br>
+            <input type="number" id="month" name="month" placeholder="01" required><br><br>
+            <label>year</label><br>
+            <input type="number" id="year" name="year" placeholder="2000" required><br><br>
+            <label>select gender</label><br>
+            <input type="radio" name="gender" id="gender" value="male" checked> Male<br>
+            <input type="radio" name="gender" value="female"> Female<br><br>
+            <input type="submit" value="Submit" onclick="showName()">
+        </div>
+        <p id="display"></p>
+    </div>
 
 
-
-
-
-
-
-
-
-
-
-
-
-    </form>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- <script src="javascript.js">
- </script>   
+    <script src="javascript.js"></script>
 </body>
+
 </html>
