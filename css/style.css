@@ -3,6 +3,9 @@ h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   
 }
+body{
+  background-color: aliceblue;
+}
 
 p{
   font-style: italic;
