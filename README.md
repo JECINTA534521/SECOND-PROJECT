@@ -1,4 +1,4 @@
-# GHANANIAN NAMES.
+# AKAN NAMES.
 #### DESCRIPTION
  This project entails of a web application that helps the user to calculate the day they were born and hence identify their akan names.The akan names are derived from the ghananian culture.This is the live site link to the project  https://jecinta534521.github.io/SECOND-PROJECT/
 
