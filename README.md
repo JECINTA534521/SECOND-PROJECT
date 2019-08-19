@@ -18,5 +18,5 @@ The formula may not work as expected but will be rectified.
 email:jecintawanjirug@gmail.com.
 
 ## LICENCE AND COPYRIGHT.
- MIT Copyright@2019 JECINTA WANJIRU GATHITU
+ MIT Copyright (c)2019 JECINTA WANJIRU GATHITU
 
